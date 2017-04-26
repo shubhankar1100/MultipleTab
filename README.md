@@ -14,3 +14,5 @@ Why to use?
 This will save time for opening the daily use website in browser.
 
 Enjoy Using... :)
+
+Check out "Open Multiple website": https://chrome.google.com/webstore/detail/open-multiple-website/hedfombeoifnnpoglealldolfkjdohec?utm_source=gmail
